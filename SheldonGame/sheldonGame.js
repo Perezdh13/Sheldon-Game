@@ -1,5 +1,5 @@
 //var opciones = [piedra,papel,tijeras,lagarto,spock]
-var opciones =[0,1,2,3,4];
+let opciones =[0,1,2,3,4];
 
 
 function compara(a,b){

@@ -1,5 +1,5 @@
 
-const compara = require("./SheldonGame/sheldonGame.js")
+const compara = require("../SheldonGame/sheldonGame.js")
 //si jugador a escoge piedra
 test("jugador 1 escoge piedra y jugador 2 escoge papel",()=>{
   expect (compara(0,1)).toBe("gana papel");
